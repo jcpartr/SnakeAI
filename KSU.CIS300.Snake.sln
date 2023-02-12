@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSU.CIS300.Snake", "KSU.CIS300.Snake\KSU.CIS300.Snake.csproj", "{0531F0AF-F542-478D-BC1C-73B27657EC3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSU.CIS300.SnakeTests", "KSU.CIS300.SnakeTests\KSU.CIS300.SnakeTests.csproj", "{03BE5158-F453-4866-BF25-7404883B2CB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0531F0AF-F542-478D-BC1C-73B27657EC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0531F0AF-F542-478D-BC1C-73B27657EC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0531F0AF-F542-478D-BC1C-73B27657EC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0531F0AF-F542-478D-BC1C-73B27657EC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03BE5158-F453-4866-BF25-7404883B2CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03BE5158-F453-4866-BF25-7404883B2CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03BE5158-F453-4866-BF25-7404883B2CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03BE5158-F453-4866-BF25-7404883B2CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A346BD1-AF6A-4902-84A2-31E2AE3DE994}
+	EndGlobalSection
+EndGlobal
